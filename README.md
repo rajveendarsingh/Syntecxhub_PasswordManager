@@ -1,6 +1,6 @@
 # Syntecxhub_PasswordManager
 
-A simple command-line password manager built in Python as part of the **Syntecxhub Cybersecurity Internship** (Project 2).
+A simple command-line password manager built in Python 
 
 ## Overview
 
